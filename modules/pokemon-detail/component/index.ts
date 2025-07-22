@@ -1,0 +1,1 @@
+export { PokemonDetailContainer as PokemonDetail } from "../container/PokemonDetailContainer" 

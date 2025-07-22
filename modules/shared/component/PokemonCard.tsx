@@ -1,0 +1,1 @@
+export { PokemonCardContainer as PokemonCard } from "../container/PokemonCardContainer" 

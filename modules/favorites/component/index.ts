@@ -1,0 +1,1 @@
+export { FavoritesContainer as Favorites } from "../container/FavoritesContainer" 

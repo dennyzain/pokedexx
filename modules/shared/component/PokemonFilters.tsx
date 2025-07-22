@@ -1,0 +1,1 @@
+export { PokemonFiltersContainer as PokemonFilters } from "../container/PokemonFiltersContainer" 
